@@ -1,10 +1,10 @@
 # **YeStack_task: Event Management API**
 
 ## **Overview**
-This is a simple Event Management API built with Node.js,Express, ypeScript, and MongoDB. The API allows users to create, view, update, and delete events.
+This is a simple Event Management API built with Node.js,Express, TypeScript, and MongoDB. The API allows users to create, view, update, and delete events.
 
-**Postman API documentation:**https://documenter.getpostman.com/view/38903969/2sB2j68A15
----
+Postman API documentation: https://documenter.getpostman.com/view/38903969/2sB2j68A15
+
 
 ## **Features**
 - **Create Event**: Add a new event with a title, description, and date.
@@ -13,9 +13,7 @@ This is a simple Event Management API built with Node.js,Express, ypeScript, and
 - **Update Event**: Modify an existing event.
 - **Delete Event**: Remove an event by its ID.
 
----
 
----
 
 ## **Setup Instructions**
 
